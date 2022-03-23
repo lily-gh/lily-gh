@@ -1,4 +1,4 @@
-Would you like to set up your terminal like this?
+# Would you like to set up your terminal like this?
 
 ![Terminal demo](https://github.com/rafa-o/rafa-o/blob/master/terminal_demo.png)
 
