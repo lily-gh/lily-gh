@@ -12,3 +12,8 @@ I have made a script that installs and sets up all the required software for thi
 ⚠️ _Note:_ you'll still need to manually select the `MesloLGS NF` font family in your terminal's settings.
 
 Feel free to read through the [detailed description](https://github.com/lily-gh/devtools/tree/main/p10k) of what's being installed and set up.
+
+
+If you like the things I create, consider [supporting me on Ko-fi](https://ko-fi.com/lily_neinhorn) 💖
+
+[![Support me on Ko-fi](img/kofi_button_red.png)](https://ko-fi.com/lily_neinhorn)
