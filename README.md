@@ -16,4 +16,8 @@ Feel free to read through the [detailed description](https://github.com/lily-gh/
 
 If you like the things I create, consider [supporting me on Ko-fi](https://ko-fi.com/lily_neinhorn) 💖
 
-[![Support me on Ko-fi](img/kofi_button_red.png)](https://ko-fi.com/lily_neinhorn)
+<div align="center">
+    <a href="https://ko-fi.com/lily_neinhorn" target="_blank">
+    <img src="img/kofi_button_red.png" alt="Support me on Ko-fi" width="400">
+    </a>
+</div>
