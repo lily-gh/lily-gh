@@ -1,3 +1,5 @@
+# ⚠️ _Note:_ This is now deprecated. I'm currently working on an entirely new developer setup automation with ansible - it'll be LOVELY when it's ready.
+
 # Would you like to set up your terminal like this?
 
 ![Terminal demo](https://github.com/lily-gh/lily-gh/blob/main/terminal_demo.png)
