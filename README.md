@@ -17,6 +17,8 @@ Assuming you're using zsh, here's what you'll need:
 ```bash
 curl https://raw.githubusercontent.com/lily-gh/devtools/main/p10k/.p10k.zsh >| ~/.p10k.zsh
 ```
+⚠️ Note: you'll still need to manually select the `MesloLGS NF` / `Maple Mono NL NF` font family in your terminal's settings for the icons to show up properly.
+
 3. Install eza for nicer file listing
 ```bash
 brew install eza
@@ -35,6 +37,8 @@ if [ -x "$(command -v eza)" ]; then
     alias t="eza --tree -a --header --icons --git-ignore --group-directories-first"
 fi
 ```
+
+4. The tool I'm using for managing tabs and panes in the terminal is [Zellij](https://github.com/zellij-org/zellij).
 
 ---
 
