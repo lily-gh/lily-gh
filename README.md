@@ -1,25 +1,51 @@
-# ⚠️ _Note:_ This is now deprecated. I'm currently working on an entirely new developer setup automation with ansible - it'll be LOVELY when it's ready.
+# 👩🏻‍💻 Hi, I'm Lily!
+I like coding, and sometimes I create ~~Software~~ _Memeware_ on my freetime.
+
+My most recent projects are:
+  - [Unphrazle](https://unphrazle.vercel.app/), a tool that helps you find words for word-guessing games (such as _Phrazle_).
+  - [Oppressor Suppressor](https://github.com/lily-gh/oppressor-suppressor) - _need I say more?_
+
 
 # Would you like to set up your terminal like this?
 
-![Terminal demo](https://github.com/lily-gh/lily-gh/blob/main/terminal_demo.png)
+![Terminal demo](terminal_demo.png)
 
+Assuming you're using zsh, here's what you'll need:
 
-I have made a script that installs and sets up all the required software for this configuration, all you need to do is run this single command:
-
+1. Install [Powerline10k with these instructions](https://github.com/romkatv/powerlevel10k#getting-started). (I use the [Maple Mono font](https://github.com/subframe7536/Maple-font), but any NerdFont should display the fancy glyphs nicely.
+2. (optional) copy my Powerlevel10k configuration to make yours look the same:
 ```bash
- sh -c "$(curl -fsSL https://raw.githubusercontent.com/lily-gh/devtools/main/p10k/spice_up_my_terminal.sh)"
+curl https://raw.githubusercontent.com/lily-gh/devtools/main/p10k/.p10k.zsh >| ~/.p10k.zsh
+```
+3. Install eza for nicer file listing
+```bash
+brew install eza
 ```
 
-⚠️ _Note:_ you'll still need to manually select the `MesloLGS NF` font family in your terminal's settings.
+Add these aliases in your `.zshrc`:
+```bash
+# checks if eza command is available before setting the aliases
+if [ -x "$(command -v eza)" ]; then
+    alias l="eza -1 --long --header --icons --group-directories-first"
+    alias ls="eza -1 --group-directories-first"
+    alias ll="eza --long --header --icons --group-directories-first --no-permissions --total-size"
+    alias lp="eza --long --header --icons --group-directories-first --total-size"
+    alias la="eza -a --long --header --icons --group-directories-first"
+    alias lt="eza --tree -a --long --header --icons --git-ignore --group-directories-first"
+    alias t="eza --tree -a --header --icons --git-ignore --group-directories-first"
+fi
+```
 
-Feel free to read through the [detailed description](https://github.com/lily-gh/devtools/tree/main/p10k) of what's being installed and set up.
+---
 
-
-If you like the things I create, consider [supporting me on Ko-fi](https://ko-fi.com/lily_neinhorn) 💖
+If you like the things I create, consider supporting me on [Ko-fi](https://ko-fi.com/lily_neinhorn) 💖
 
 <div align="center">
     <a href="https://ko-fi.com/lily_neinhorn" target="_blank">
         <img src="img/kofi_button_red_nobg.png" alt="Support me on Ko-fi" width="400">
     </a>
 </div>
+
+---
+
+<p align="center">🩷🩷🩷🩷🩷</p>
