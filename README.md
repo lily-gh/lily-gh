@@ -33,8 +33,8 @@ if [ -x "$(command -v eza)" ]; then
     alias ll="eza --long --header --icons --group-directories-first --no-permissions --total-size"
     alias lp="eza --long --header --icons --group-directories-first --total-size"
     alias la="eza -a --long --header --icons --group-directories-first"
-    alias lt="eza --tree -a --long --header --icons --git-ignore --group-directories-first"
-    alias t="eza --tree -a --header --icons --git-ignore --group-directories-first"
+    alias lt="eza --tree --long --header --icons --git-ignore --group-directories-first"
+    alias t="eza --tree --header --icons --git-ignore --group-directories-first"
 fi
 ```
 
