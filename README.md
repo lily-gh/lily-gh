@@ -3,7 +3,7 @@ I like coding, and I create cool things and ~~Software~~ _Memeware_ on my (very 
 
 My most recent projects are:
   - [Large Type Svelte](https://github.com/lily-gh/large-type-svelte) - Display and share text in a **LARGE FONT**, directly from your phone!
-  - [Unphrazle](https://unphrazle.vercel.app/), a tool that helps you find words for word-guessing games. (such as _Phrazle_)
+  - [Unphrazle](https://unphrazle.vercel.app/) - a tool that helps you find words for word-guessing games. (such as _Phrazle_)
   - [Oppressor Suppressor](https://github.com/lily-gh/oppressor-suppressor) - _need I say more?_
 
 
