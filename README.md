@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Hi, I'm Lily!
-I like coding, and I create cool things and ~~Software~~ _Memeware_ on my (very little) freetime.
+I like coding, and I create cool things and ~~Software~~ _Memeware_ on my (_very little_) freetime.
 
 My most recent projects are:
   - [Large Type Svelte](https://github.com/lily-gh/large-type-svelte) - Display and share text in a **LARGE FONT**, directly from your phone!
