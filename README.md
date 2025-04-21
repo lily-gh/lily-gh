@@ -56,7 +56,7 @@ If you like the things I create, consider supporting me on [Ko-fi](https://ko-fi
 <p align="center">🩷🩷🩷🩷🩷</p>
 
 <div align="center">
-  <img src="https://count.getloli.com/@test-li?name=test-li&theme=normal-2&padding=3&offset=-25&align=top&scale=1&scale=0.7&pixelated=0&darkmode=auto"/>
+  <img src="https://count.getloli.com/@test-li?name=test-li&theme=normal-2&padding=3&offset=-25&align=top&scale=0.5&pixelated=0&darkmode=auto"/>
 </div>
 <br />
 <sub>
