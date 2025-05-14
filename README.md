@@ -41,14 +41,15 @@ fi
 
 4. The tool I'm using for managing tabs and panes in the terminal is [Zellij](https://github.com/zellij-org/zellij).
 
-
-<a href="https://github.com/CatsJuice/ssr-contributions-img">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/lily-gh?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=27&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=pink&dark=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/lily-gh?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=27&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=pink">
-    <img align="center" alt="Lily's contribution" src="https://ssr-contributions-svg.vercel.app/_/lily-gh?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=27&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=pink" >
-  </picture>
-</a>
+<div align="center">
+  <a href="https://github.com/CatsJuice/ssr-contributions-img">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/lily-gh?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=27&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=pink&dark=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/lily-gh?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=27&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=pink">
+      <img align="center" alt="Lily's contribution" src="https://ssr-contributions-svg.vercel.app/_/lily-gh?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.06&animation_amplitude=27&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=pink" >
+    </picture>
+  </a>
+</div>
 
 ---
 
