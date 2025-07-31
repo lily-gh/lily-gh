@@ -2,6 +2,9 @@
 I like coding, and I create cool things and ~~Software~~ _Memeware_ on my (_very little_) freetime.
 
 My most recent projects are:
+  - [Kitty Poker](https://kittypoker.org) - A Planning Poker app with a modern design and Catppuccin-inspired color palette.
+  - [Custom New Tab](https://github.com/lily-gh/custom-new-tab) - Replace the new tab page with a custom URL in Edge, Chrome or Firefox.
+  - [UI Tools](https://ui-tools.lilyoliveira.com) - Set of UI tools including a color picker, image color picker and built-in Catppuccin Palette reference.
   - [Large Type Svelte](https://github.com/lily-gh/large-type-svelte) - Display and share text in a **LARGE FONT**, directly from your phone!
   - [Unphrazle](https://unphrazle.vercel.app/) - a tool that helps you find words for word-guessing games. (such as _Phrazle_)
   - [Oppressor Suppressor](https://github.com/lily-gh/oppressor-suppressor) - _need I say more?_
