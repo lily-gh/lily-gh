@@ -2,7 +2,8 @@
 I like coding, and I create cool things and ~~Software~~ _Memeware_ on my (_very little_) freetime.
 
 My most recent projects are:
-  - [Kitty Poker](https://kittypoker.org) - A Planning Poker app with a modern design and Catppuccin-inspired color palette.
+  - [dev-bootstrap.sh](dev-bootstrap.sh) - Easily bootstrap a new computer with developer tooling in under 15min. ✨ 🚀
+  - [Kitty Poker](https://kittypoker.org) - A Planning Poker app with a modern design and Catppuccin-inspired color palette. (still a WIP with some quirks here and there)
   - [Custom New Tab](https://github.com/lily-gh/custom-new-tab) - Replace the new tab page with a custom URL in Edge, Chrome or Firefox.
   - [UI Tools](https://ui-tools.lilyoliveira.com) - Set of UI tools including a color picker, image color picker and built-in Catppuccin Palette reference.
   - [Large Type Svelte](https://github.com/lily-gh/large-type-svelte) - Display and share text in a **LARGE FONT**, directly from your phone!
