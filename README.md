@@ -67,8 +67,8 @@ If you like the things I create, consider supporting me on [Ko-fi](https://ko-fi
 
 ---
 
-<div align="center">`
-  <img src="https://readme-typing-svg.herokuapp.com?font=Emilys+Candy&size=24&pause=1200&color=F577E1&center=true&width=435&lines=thanks+for+stopping+by!" alt="Typing SVG that writes 'thanks for stopping by!'" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Emilys+Candy&size=24&pause=1200&color=F577E1&center=true&width=435&lines=thanks+for+stopping+by!" alt="Typing SVG that writes 'thanks for stopping by!'" style="pointer-events:none; cursor:default;" />
 </div>
 
 <p align="center">🩷🩷🩷🩷🩷</p>
@@ -77,8 +77,7 @@ If you like the things I create, consider supporting me on [Ko-fi](https://ko-fi
   <img src="https://count.getloli.com/@lily-gh?name=lily-gh&theme=normal-2&padding=3&offset=-17&align=top&scale=0.5&pixelated=0&darkmode=auto"/>
 </div>
 <br />
-<sub>
-    <p align="center">
-        Visitors since 21.04.2025
-    </p>
-</sub>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Emilys+Candy&size=18&duration=1&pause=1200&color=F577E1&center=true&repeat=false&lines=Visitors+since+21.04.2025" alt="Typing SVG that writes 'Visitors since 21.04.2025'" style="pointer-events:none; cursor:default;" />
+</div>
