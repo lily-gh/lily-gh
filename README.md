@@ -67,6 +67,10 @@ If you like the things I create, consider supporting me on [Ko-fi](https://ko-fi
 
 ---
 
+<div align="center">`
+  <img src="https://readme-typing-svg.herokuapp.com?font=Emilys+Candy&size=24&pause=1200&color=F577E1&center=true&width=435&lines=thanks+for+stopping+by!" alt="Typing SVG that writes 'thanks for stopping by!'" />
+</div>
+
 <p align="center">🩷🩷🩷🩷🩷</p>
 
 <div align="center">
