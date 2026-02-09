@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Hi, I'm Lily!
 I like coding, and I create cool things and ~~Software~~ _Memeware_ on my (_very little_) freetime.
 
-My most recent projects are:
+My recent projects:
+  - [Catppuccin Palette Picker](https://github.com/lily-gh/catppuccin-palette-picker) - Copy Catppuccin colors directly inside VS Code / VS Codium.
   - [dev-bootstrap.sh](dev-bootstrap.sh) - Easily bootstrap a new computer with developer tooling in under 15min. ✨ 🚀
   - [Kitty Poker](https://kittypoker.org) - A Planning Poker app with a modern design and Catppuccin-inspired color palette. (still a WIP with some quirks here and there)
   - [Custom New Tab](https://github.com/lily-gh/custom-new-tab) - Replace the new tab page with a custom URL in Edge, Chrome or Firefox.
