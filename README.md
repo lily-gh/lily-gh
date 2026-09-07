@@ -1,12 +1,15 @@
 # 👩🏻‍💻 Hi, I'm Lily!
 I like coding (_and 498789 other things_), and I create ~~Software~~ _Memeware_ on my (_very little_) freetime.
 
+[![Certified Thinker](https://meatproxy.me/badge/c/55g7v.svg)](https://meatproxy.me/c/55g7v)
+
 My most recent projects are:
   <!-- - [Kitty Poker](https://kittypoker.org) - A Planning Poker app with a modern design and Catppuccin-inspired color palette. -->
+  - [Caake.de 🍰](https://caake.de/) - Small helper tools.
   - [Catppuccin Palette Picker](https://marketplace.visualstudio.com/items?itemName=LilyOliveira.catppuccin-palette-picker) - Reference and copy Catppuccin colors without leaving VS Code / VS Codium.
   - [Custom New Tab](https://github.com/lily-gh/custom-new-tab) - Replace the new tab page with a custom URL in Edge, Chrome or Firefox.
-  - [UI Tools](https://ui-tools.lilyoliveira.com) - Set of UI tools including a color picker, image color picker and built-in Catppuccin Palette reference.
-  - [Large Type Svelte](https://github.com/lily-gh/large-type-svelte) - Display and share text in a **LARGE FONT**, directly from your phone!
+  - [UI Tools](https://ui-tools.lilyoliveira.com) - Set of UI tools including a color picker, image color picker and built-in Catppuccin Palette reference for my own personal use.
+  - [Large Type Svelte](https://github.com/lily-gh/large-type-svelte) - A Large Type fork that allows you to show text in a **LARGE FONT** directly from your phone even when offline!
   - [Unphrazle](https://unphrazle.vercel.app/) - a tool that helps you find words for word-guessing games. (such as _Phrazle_)
   - [Oppressor Suppressor](https://github.com/lily-gh/oppressor-suppressor) - _need I say more?_
 
@@ -36,7 +39,7 @@ If you like the things I create, consider supporting me on [Ko-fi](https://ko-fi
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Emilys+Candy&size=24&pause=1200&color=F577E1&center=true&width=435&lines=thanks+for+stopping+by!" alt="Typing SVG that writes 'thanks for stopping by!'" style="pointer-events:none; cursor:default;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Emilys+Candy&size=24&pause=1200&color=F577E1&center=true&width=435&lines=death+is+only+the+beginning!" alt="Typing SVG that writes 'thanks for stopping by!'" style="pointer-events:none; cursor:default;" />
 </div>
 
 <p align="center">🩷🩷🩷🩷🩷</p>
