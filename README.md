@@ -3,7 +3,7 @@
 # 👩🏻‍💻 Hi, I'm Lily!
 I create ~~Software~~ _Memeware_ on my (_very little_) freetime. And I'm perpetually tired.
 
-![I'm tired](./img/tired.gif)
+![I'm tired](img/tired.gif)
 
 My most recent projects are:
   <!-- - [Kitty Poker](https://kittypoker.org) - A Planning Poker app with a modern design and Catppuccin-inspired color palette. -->
