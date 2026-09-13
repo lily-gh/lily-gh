@@ -1,7 +1,14 @@
-# 👩🏻‍💻 Hi, I'm Lily!
-I like coding (_and 498789 other things_), and I create ~~Software~~ _Memeware_ on my (_very little_) freetime.
+<div align="center">
+    [![Certified Thinker](https://meatproxy.me/badge/c/55g7v.svg)](https://meatproxy.me/c/55g7v)
+</div>
 
-[![Certified Thinker](https://meatproxy.me/badge/c/55g7v.svg)](https://meatproxy.me/c/55g7v)
+# 👩🏻‍💻 Hi, I'm Lily!
+I create ~~Software~~ _Memeware_ on my (_very little_) freetime. And I'm perpetually tired.
+
+<div align="center">
+  <img src="img/tired.gif" alt="girl tired at the computer" style="pointer-events:none; cursor:default;" />
+</div>
+
 
 My most recent projects are:
   <!-- - [Kitty Poker](https://kittypoker.org) - A Planning Poker app with a modern design and Catppuccin-inspired color palette. -->
