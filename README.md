@@ -13,8 +13,6 @@ My most recent projects are:
   - [Unphrazle](https://unphrazle.vercel.app/) - a tool that helps you find words for word-guessing games. (such as _Phrazle_)
   - [Oppressor Suppressor](https://github.com/lily-gh/oppressor-suppressor) - _need I say more?_
 
-[![Certified Thinker](https://meatproxy.me/badge/c/55g7v.svg)](https://meatproxy.me/c/55g7v)
-
 
 <div align="center">
   <a href="https://github.com/CatsJuice/ssr-contributions-img">
